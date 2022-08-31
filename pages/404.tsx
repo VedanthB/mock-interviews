@@ -1,4 +1,5 @@
 import Image from "next/image";
+import React from "react";
 import Link from "next/link";
 import custom404Style from "../styles/404.module.css";
 

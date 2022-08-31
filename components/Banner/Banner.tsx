@@ -1,4 +1,5 @@
 import Image from "next/image";
+import React from "react";
 import bannerStyles from "./Banner.module.css";
 
 export const Banner = () => {
